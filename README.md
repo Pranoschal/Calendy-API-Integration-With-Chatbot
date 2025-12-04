@@ -301,15 +301,3 @@ If the frontend can't connect to Flask:
 2. Review browser console for errors
 3. Check network tab for failed API calls
 4. Ensure you're using a supported model
-
-## License
-
-MIT
-
-## Support
-
-For issues and questions:
-- Create an issue on GitHub
-- Email: support@yourcompany.com
-- Phone: (555) 123-4567
-\`\`\`
